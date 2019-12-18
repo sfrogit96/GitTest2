@@ -1,3 +1,5 @@
 Test commit 2
 ABC
 XYZ
+
+Note: this is branch added
